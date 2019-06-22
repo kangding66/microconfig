@@ -18,7 +18,7 @@ eureka:
   register-with-eureka: false
   
 info:
- app.name: microconfig-confg-client-dev
+ app.name: microconfig-config-client-dev
  company.name: enjoy
 ---
 server:
@@ -36,5 +36,5 @@ eureka:
   register-with-eureka: false
   
 info:
- app.name: microconfig-confg-client-beta
+ app.name: microconfig-config-client-beta
  company.name: enjoybeta
